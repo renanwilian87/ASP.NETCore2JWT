@@ -1,0 +1,11 @@
+C:\Empresa\Source\Testes\ASP.NETCore2JWT\API\bin\Debug\netcoreapp2.0\API.deps.json
+C:\Empresa\Source\Testes\ASP.NETCore2JWT\API\bin\Debug\netcoreapp2.0\API.runtimeconfig.json
+C:\Empresa\Source\Testes\ASP.NETCore2JWT\API\bin\Debug\netcoreapp2.0\API.runtimeconfig.dev.json
+C:\Empresa\Source\Testes\ASP.NETCore2JWT\API\bin\Debug\netcoreapp2.0\API.dll
+C:\Empresa\Source\Testes\ASP.NETCore2JWT\API\obj\Debug\netcoreapp2.0\API.csprojResolveAssemblyReference.cache
+C:\Empresa\Source\Testes\ASP.NETCore2JWT\API\obj\Debug\netcoreapp2.0\API.csproj.CoreCompileInputs.cache
+C:\Empresa\Source\Testes\ASP.NETCore2JWT\API\obj\Debug\netcoreapp2.0\API.AssemblyInfoInputs.cache
+C:\Empresa\Source\Testes\ASP.NETCore2JWT\API\obj\Debug\netcoreapp2.0\API.AssemblyInfo.cs
+C:\Empresa\Source\Testes\ASP.NETCore2JWT\API\bin\Debug\netcoreapp2.0\API.pdb
+C:\Empresa\Source\Testes\ASP.NETCore2JWT\API\obj\Debug\netcoreapp2.0\API.dll
+C:\Empresa\Source\Testes\ASP.NETCore2JWT\API\obj\Debug\netcoreapp2.0\API.pdb
